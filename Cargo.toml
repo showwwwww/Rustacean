@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "chapter1_cli"
+]
+
+resolver = "2"
